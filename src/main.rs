@@ -1,7 +1,7 @@
-fn main() {
-    fizzbuzz_to(100);
-}
 
+fn main() {
+    fizzbuzz_to(1000);
+}
 fn is_devided_by(lhs: u32, rhs: u32) -> bool {
      if rhs == 0 {
          return false;

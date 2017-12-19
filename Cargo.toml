@@ -1,0 +1,6 @@
+[package]
+name = "rust-vn"
+version = "0.1.0"
+authors = ["SinhHN <sinhhn@gmail.com>"]
+
+[dependencies]

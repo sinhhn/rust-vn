@@ -1,3 +1,5 @@
 .idea
 main
 *.pdf
+target
+Cargo.lock
